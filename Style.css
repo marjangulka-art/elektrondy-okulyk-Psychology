@@ -1,0 +1,42 @@
+BODY {
+	MARGIN-LEFT: 0pt; MARGIN-TOP: 5pt
+}
+TR {
+	COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif; FONT-SIZE: 12px; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.bodytext {
+	COLOR: #000000; FONT-FAMILY: Arial, sans-serif; FONT-SIZE: 12px; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.menu {
+	COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif; FONT-SIZE: 12px; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.normal {
+	COLOR: #000000; FONT-FAMILY: Arial, sans-serif; FONT-SIZE: 12px; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+A.menu:link {
+	COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+A.menu:visited {
+	COLOR: #ffffff; FONT-FAMILY: Arial, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+A.menu:hover {
+	COLOR: yellow; FONT-FAMILY: Arial, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+A.cde:link {
+	COLOR: black; FONT-FAMILY: Arial, sans-serif; FONT-SIZE: 14pt; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+A.cde:visited {
+	COLOR: black; FONT-FAMILY: Arial, sans-serif; FONT-SIZE: 14pt; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+A.cde:hover {
+	COLOR: green; FONT-FAMILY: Arial, sans-serif; FONT-SIZE: 14pt; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: "Navy"; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: "Navy"; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: "Green"; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: underline
+}
